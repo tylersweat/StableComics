@@ -1,0 +1,6 @@
+{
+    "prompts": [
+        {"prompt": "a cat and a dog", "token_indices": [2, 5]},
+        {"prompt": "a gray cat and a white dog", "token_indices": [3, 7]}
+    ]
+}
