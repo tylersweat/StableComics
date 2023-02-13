@@ -7,7 +7,7 @@
 #SBATCH -C pascal
 
 
-cd ~/AttendExcite/
+cd ~/StableComics/AttendExcite/
 
 nvidia-smi --list-gpus
 nvidia-smi --query-gpu=memory.total --format=csv
