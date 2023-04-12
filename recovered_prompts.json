@@ -1,0 +1,7 @@
+{
+    "prompts": [
+        {"prompt": "A woman reading a book, sitting on a park bench, a man walks toward her", "token_indices": [2,5,9,12], "condition_images_path" : "/home/kroger25/StableComics/Attend-and-Excite-II/imgs_condition"}
+
+
+    ]
+}
