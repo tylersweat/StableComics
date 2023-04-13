@@ -1,0 +1,18 @@
+{
+    "comics": [
+        {
+            "id": "01",
+            "style": "cartoon",
+            "frame_0": 4,
+            "frame_1": 7,
+            "frame_2": 3
+        },
+        {
+            "id": "02",
+            "style": "cartoon",
+            "frame_0": 5,
+            "frame_1": 5,
+            "frame_2": 1
+        }      
+    ]
+}

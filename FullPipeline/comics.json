@@ -1,0 +1,20 @@
+{
+    "comics": [
+        {
+            "frames": [
+                {"prompt": "A lovely mountain field, with a woman in a flowy skirt making a flower crown, with a boy in a baseball cap and a toy truck"},
+                {"prompt": "A lovely mountain field, with a boy in a baseball cap handing a toy truck to a woman in a flowy skirt wearing a flower crown"},
+                {"prompt": "A lovely mountain field, with a woman in a flowy skirt and flower crown holding hands with a boy wearing a baseball cap, holding a toy truck"}
+            ],
+            "id": "01"         
+        },
+        {
+            "frames": [
+                {"prompt": "A woman with fiery red hair sits on a bench, a boy with a freckled smiling face approaches with a soccer ball"},
+                {"prompt": "A woman with fiery red hair sitting on a bench, catches a soccer ball, surprised"},
+                {"prompt": "A woman with fiery red hair and a boy with a freckled smiling face play soccer"}
+            ],
+            "id": "02"         
+        }      
+    ]
+}
