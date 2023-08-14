@@ -1,18 +1,39 @@
 {
     "comics": [
         {
-            "id": "01",
+            "id": "05",
             "style": "cartoon",
-            "frame_0": 4,
+            "frame_0": 9,
             "frame_1": 7,
             "frame_2": 3
         },
         {
-            "id": "02",
+            "id": "06",
             "style": "cartoon",
-            "frame_0": 5,
-            "frame_1": 5,
-            "frame_2": 1
+            "frame_0": 2,
+            "frame_1": 4,
+            "frame_2": 2
+        },      
+        {
+            "id": "07",
+            "style": "cartoon",
+            "frame_0": 0,
+            "frame_1": 0,
+            "frame_2": 7
+        },      
+        {
+            "id": "08",
+            "style": "cartoon",
+            "frame_0": 2,
+            "frame_1": 2,
+            "frame_2": 8
+        },      
+        {
+            "id": "09",
+            "style": "cartoon",
+            "frame_0": 3,
+            "frame_1": 0,
+            "frame_2": 9
         }      
     ]
 }

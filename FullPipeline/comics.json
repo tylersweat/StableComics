@@ -2,19 +2,43 @@
     "comics": [
         {
             "frames": [
-                {"prompt": "A lovely mountain field, with a woman in a flowy skirt making a flower crown, with a boy in a baseball cap and a toy truck"},
-                {"prompt": "A lovely mountain field, with a boy in a baseball cap handing a toy truck to a woman in a flowy skirt wearing a flower crown"},
-                {"prompt": "A lovely mountain field, with a woman in a flowy skirt and flower crown holding hands with a boy wearing a baseball cap, holding a toy truck"}
+                {"prompt": "Two animals, an elephant and a raccoon, raccoon stealing fruit, elephant drinking from river"},
+                {"prompt": "Two animals, an elephant and a raccoon, elephant chasing a raccoon, fruit on the ground"},
+                {"prompt": "Two animals, an elephant and a raccoon, looking at a sunset"}
             ],
-            "id": "01"         
+            "id": "05"         
         },
         {
             "frames": [
-                {"prompt": "A woman with fiery red hair sits on a bench, a boy with a freckled smiling face approaches with a soccer ball"},
-                {"prompt": "A woman with fiery red hair sitting on a bench, catches a soccer ball, surprised"},
-                {"prompt": "A woman with fiery red hair and a boy with a freckled smiling face play soccer"}
+                {"prompt": "Two animals, a capybara and a fox, capybara eating grass, fox in a field"},
+                {"prompt": "Two animals, a capybara and a fox, fox sniffing capybara tail"},
+                {"prompt": "Two animals, a capybara and a fox, laying in a field"}
             ],
-            "id": "02"         
+            "id": "06"         
+        },      
+        {
+            "frames": [
+                {"prompt": "Two animals, a lion and a monkey, monkey jumps on sleeping lion"},
+                {"prompt": "Two animals, a lion and a monkey, monkey points at banana tree"},
+                {"prompt": "Two animals in a tree, a lion and a monkey"}
+            ],
+            "id": "07"         
+        },      
+        {
+            "frames": [
+                {"prompt": "Two animals, an owl and a fox, fox behind an owl"},
+                {"prompt": "Two animals, an owl and a fox, pile of acorns"},
+                {"prompt": "Two animals, an owl and a fox, the fox has a wagon full of acorns"}
+            ],
+            "id": "08"         
+        },      
+        {
+            "frames": [
+                {"prompt": "A horse in a meadow, a horse grazing"},
+                {"prompt": "Two animals, a horse and a wolf, a wolf stalks a horse in a meadow, wolf snarls"},
+                {"prompt": "Two animals, a horse and a wolf, a horse kicks an attacking wolf"}
+            ],
+            "id": "09"         
         }      
     ]
 }

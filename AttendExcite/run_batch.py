@@ -13,7 +13,7 @@ import json
 
 def load_model():
     device = torch.device('cuda:0') if torch.cuda.is_available() else torch.device('cpu')
-    stable = AttendAndExcitePipeline.from_pretrained("./models/stable-diffusion-v1-4").to(device)
+    stable = AttendAndExcitePipeline.from_pretrained("../models/VanGogh").to(device)
     return stable
 
 def run_on_prompt(prompt: List[str],

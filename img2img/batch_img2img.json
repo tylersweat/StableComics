@@ -1,0 +1,24 @@
+{
+    "batch": [
+        {
+            "prompt": "A boy wearing a superhero mask and a cape sitting at a desk at school. No background, photorealistic.",
+            "input": "./inputs/noise.jpg", "output": "./outputs/frame1.png",
+            "strength": 1.0, "guidance_scale": 7.5
+        },
+        {
+            "prompt": "A boy wearing a superhero mask and cape running out of the classroom through the doorway. No background, photorealistic.",
+            "input": "./outputs/frame1.png", "output": "./outputs/frame2.png",
+            "strength": 0.95, "guidance_scale": 7.5
+        },
+        {
+            "prompt": "A class of students sitting at their desks all looking to the left in surprise. No background photorealistic.",
+            "input": "./outputs/frame2.png", "output": "./outputs/frame3.png",
+            "strength": 0.95, "guidance_scale": 7.5
+        },
+        {
+            "prompt": "A old lady schoolteacher wearing a dress standing and a boy walking in behind her through the classroom doorway. No background, photorealistic.",
+            "input": "./outputs/frame3.png", "output": "./outputs/frame4.png",
+            "strength": 0.95, "guidance_scale": 7.5
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+Please create two original characters by filling in the following format:
+Man / Woman / Boy / Girl
+Defining Visual trait (5 words or less)
+
+Please describe a three panel comic with no dialogue using the two characters described above. Make the description for each panel 20 words or less. Do not use pronouns, use [Char 1] or [Char 2] instead.
+
+Now create simple dialogue to go with each of the above panels. Do not use pronouns, use [Char 1] or [Char 2] instead. Not every panel requires dialogue.

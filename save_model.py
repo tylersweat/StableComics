@@ -1,8 +1,8 @@
-from pipeline_attend_and_excite import AttendAndExcitePipeline
+from diffusers import StableDiffusionImg2ImgPipeline
 
 model = input("Huggingface model to save: ")
 modelname = input("Model name to save to ./models: ")
 
-stable = AttendAndExcitePipeline.from_pretrained(model)
+stable = StableDiffusionImg2ImgPipeline.from_pretrained(model)
 
 stable.save_pretrained(f"./models/{modelname}")

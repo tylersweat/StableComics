@@ -3,3 +3,5 @@
 /AttendExcite/outputs
 /AttendExcite/__pycache__
 /AttendExcite/utils/__pycache__
+*.png
+*.jpg
